@@ -1,4 +1,4 @@
-<img width="1414" height="60" alt="image" src="https://github.com/user-attachments/assets/8859b209-9cd3-44a3-8eba-610a0190e6ce" /># Leaflow 服务服务协议
+# Leaflow 服务服务协议
 
 **生效日期：** 2025年10月4日
 
